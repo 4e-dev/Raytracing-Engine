@@ -14,7 +14,7 @@ Features:
 ## Rendered Images
 A sphere shaded by its normal vector, in all of its un-antialiased goodness.
 
-![first sphere](https://github.com/tbbui-732/raytracer/blob/main/images_png/sphere-background.png)
+![first sphere](https://github.com/4e-dev/raytracing-engine/blob/main/images_png/sphere-background.png)
 
 A glass sphere with an airbubble inside of it rendered with Schlick's approximation algorithm.
 

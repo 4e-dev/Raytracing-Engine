@@ -18,15 +18,15 @@ A sphere shaded by its normal vector, in all of its un-antialiased goodness.
 
 A glass sphere with an airbubble inside of it rendered with Schlick's approximation algorithm.
 
-![glass sphere with schlick approximation](https://github.com/tbbui-732/raytracer/blob/main/images_png/schlick-spheres.png)
+![glass sphere with schlick approximation](https://github.com/4e-dev/raytracing-engine/blob/main/images_png/schlick-spheres.png)
 
 The same spheres before but the camera is distanced away.
 
-![positionable camera](https://github.com/tbbui-732/raytracer/blob/main/images_png/far-spheres.png)
+![positionable camera](https://github.com/4e-dev/raytracing-engine/blob/main/images_png/far-spheres.png)
 
 A bunch of spheres rendered everywhere. This one took 8-10 hours to render!
 
-![final scene](https://github.com/tbbui-732/raytracer/blob/main/images_png/final-scene.png)
+![final scene](https://github.com/4e-dev/raytracing-engine/blob/main/images_png/final-scene.png)
 
 ## Takeaways
 Ray tracing is quite an amazing technique. The idea behind ray tracing is quite simple, but how those rays interact with 
